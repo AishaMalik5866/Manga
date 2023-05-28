@@ -1,5 +1,5 @@
 # Manga
-database of a few volumes of manga by Gege and Togashi, originally created on Khan Academy while learning SQL-
+A table and some queries I created of a few volumes of manga (Japanese comic books) by Gege or Togashi- originally created on Khan Academy while learning SQL
 
 
 CREATE TABLE manga (id INTEGER PRIMARY KEY, name TEXT, volume INTEGER, language TEXT, author TEXT, chapters INTEGER, price INTEGER);
